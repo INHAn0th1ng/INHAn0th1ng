@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asrorbek. I'm Full Stack JS developer which has more than two years of experience.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asrorbek. I'm Full Stack JS developer with more than two years of experience.
 
 ---
 - 🔭 Checkout my resume: 
